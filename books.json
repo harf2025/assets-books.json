@@ -16,9 +16,20 @@
     "author": "Joseph Murphy",
     "imageUrl": "https://i.pinimg.com/736x/8f/1a/0c/8f1a0c7b5e4c0d0d0c3e9a7e6b0e0c0f.jpg",
     "pdfUrl": "https://example.com/power_of_subconscious_mind.pdf",
-    "description": "A classic book on how to harness the power of your subconscious mind for success.",
+    "description": "A classiلكc book on how to harness the power of your subconscious mind for success.",
     "rating": 4.8,
     "category": "تطوير",
     "language": "en" 
-  }   
+  },
+  {
+    "id": "book_3",             
+    "title": "فن اللامبالاة",
+    "author": "مارك مانسون",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZnw7guQ9Fj_9MAmQWyPqvnzVpcfMRVmVzhw&s",
+    "pdfUrl": "https://ketabpedia.com/wp-content/uploads/2025/02/Ketabpedia.com_فن-اللامبالاة.pdf",
+    "description": "كتاب تطوير ذاتي يدعو إلى التركيز على ما يهمك فعلاً.",
+    "rating": 2.5,
+    "category": "تطوير",
+    "language": "ar" 
+  }
 ]
