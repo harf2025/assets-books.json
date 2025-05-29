@@ -8,7 +8,7 @@
     "description": "كتاب تطوير ذاتي يدعو إلى التركيز على ما يهمك فعلاً.",
     "rating": 2.5,
     "category": "تطوير",
-    "language": "ar"  // أضف هذا
+    "language": "ar" 
   },
   {
     "id": "book_2",
@@ -19,7 +19,6 @@
     "description": "A classic book on how to harness the power of your subconscious mind for success.",
     "rating": 4.8,
     "category": "تطوير",
-    "language": "en"  // أضف هذا
+    "language": "en" 
   }
-  // ... أضف حقل "language" لجميع كتبك
 ]
