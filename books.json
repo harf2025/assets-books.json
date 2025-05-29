@@ -8,6 +8,7 @@
     "rating": 2.5,
     "category": "روايات",
     "id": "book_1"
+    "language": "en"
   },
   {
     "title": "قوة عقلك الباطن",
@@ -18,6 +19,7 @@
     "rating": 4.8,
     "category": "تطوير",
     "id": "book_2"
+    "language": "en"
   },
   {
     "title": "الرجال من المريخ والنساء من الزهرة",
@@ -28,5 +30,6 @@
     "rating": 4.0,
     "category": "تنمية",
     "id": "book_3"
+    "language": "en"
   }
 ]
