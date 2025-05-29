@@ -1,0 +1,32 @@
+[
+  {
+    "title": "فن اللامبالاة",
+    "author": "مارك مانسون",
+    "imageUrl": "https://www.manhal.com/platform/books/132/cover.jpg",
+    "pdfUrl": "https://ketabpedia.com/wp-content/uploads/2025/02/Ketabpedia.com_فن-اللامبالاة.pdf",
+    "description": "كتاب تطوير ذاتي يدعو إلى التركيز على ما يهمك فعلاً.",
+    "rating": 2.5,
+    "category": "روايات",
+    "id": "book_1"
+  },
+  {
+    "title": "قوة عقلك الباطن",
+    "author": "جوزيف ميرفي",
+    "imageUrl": "https://i.pinimg.com/736x/8f/1a/0c/8f1a0c7b5e4c0d0d0c3e9a7e6b0e0c0f.jpg",
+    "pdfUrl": "https://example.com/power_of_subconscious_mind.pdf",
+    "description": "كتاب كلاسيكي عن كيفية استخدام قوة العقل الباطن لتحقيق النجاح.",
+    "rating": 4.8,
+    "category": "تطوير",
+    "id": "book_2"
+  },
+  {
+    "title": "الرجال من المريخ والنساء من الزهرة",
+    "author": "جون غراي",
+    "imageUrl": "https://cdn.salla.sa/aRmx/NqG55wZ1mN6bN9zG5uXvXmP86f3j2e58i9q03bK.jpg",
+    "pdfUrl": "https://example.com/men_are_from_mars.pdf",
+    "description": "دليل لفهم العلاقات بين الجنسين.",
+    "rating": 4.0,
+    "category": "تنمية",
+    "id": "book_3"
+  }
+]
