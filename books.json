@@ -20,7 +20,7 @@
     "rating": 4.8,
     "category": "تطوير",
     "language": "en" 
-  }
+  },
    {
     "id": "book_1",
     "title": "فن اللامبالاة",
@@ -42,7 +42,7 @@
     "rating": 4.8,
     "category": "تطوير",
     "language": "en" 
-  }
+  },
    {
     "id": "book_1",
     "title": "فن اللامبالاة",
@@ -64,7 +64,7 @@
     "rating": 4.8,
     "category": "تطوير",
     "language": "en" 
-  }
+  },
    {
     "id": "book_1",
     "title": "فن اللامبالاة",
@@ -86,7 +86,7 @@
     "rating": 4.8,
     "category": "تطوير",
     "language": "en" 
-  }
+  },
    {
     "id": "book_1",
     "title": "فن اللامبالاة",
@@ -108,7 +108,7 @@
     "rating": 4.8,
     "category": "تطوير",
     "language": "en" 
-  }
+  },
    {
     "id": "book_1",
     "title": "فن اللامبالاة",
@@ -130,7 +130,7 @@
     "rating": 4.8,
     "category": "تطوير",
     "language": "en" 
-  }
+  },
    {
     "id": "book_1",
     "title": "فن اللامبالاة",
@@ -152,5 +152,5 @@
     "rating": 4.8,
     "category": "تطوير",
     "language": "en" 
-  }
+  },
 ]
