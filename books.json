@@ -7,7 +7,7 @@
     "description": "كتاب تطوير ذاتي يدعو إلى التركيز على ما يهمك فعلاً.",
     "rating": 2.5,
     "category": "روايات",
-    "id": "book_1"
+    "id": "book_1",
     "language": "en"
   },
   {
@@ -18,7 +18,7 @@
     "description": "كتاب كلاسيكي عن كيفية استخدام قوة العقل الباطن لتحقيق النجاح.",
     "rating": 4.8,
     "category": "تطوير",
-    "id": "book_2"
+    "id": "book_2",
     "language": "en"
   },
   {
@@ -29,7 +29,7 @@
     "description": "دليل لفهم العلاقات بين الجنسين.",
     "rating": 4.0,
     "category": "تنمية",
-    "id": "book_3"
+    "id": "book_3",
     "language": "en"
   }
 ]
