@@ -20,16 +20,5 @@
     "rating": 4.8,
     "category": "تطوير",
     "language": "en" 
-  },
-  {
-    "id": "book_3",             
-    "title": "فن اللامبالاة",
-    "author": "مارك مانسون",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZnw7guQ9Fj_9MAmQWyPqvnzVpcfMRVmVzhw&s",
-    "pdfUrl": "https://ketabpedia.com/wp-content/uploads/2025/02/Ketabpedia.com_فن-اللامبالاة.pdf",
-    "description": "كتاب تطوير ذاتي يدعو إلى التركيز على ما يهمك فعلاً.",
-    "rating": 2.5,
-    "category": "تطوير",
-    "language": "ar" 
   }
 ]
