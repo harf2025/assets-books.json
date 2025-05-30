@@ -7,8 +7,8 @@
     "pdfUrl": "https://ketabpedia.com/wp-content/uploads/2025/02/Ketabpedia.com_فن-اللامبالاة.pdf",
     "description": "كتاب تطوير ذاتي يدعو إلى التركيز على ما يهمك فعلاً.",
     "rating": 2.5,
-    "category": "self_dev_category",  // ✅ مفتاح الترجمة للفئة
-    "language": "ar"                  // ✅ حقل اللغة
+    "category": "self_dev_category", 
+    "language": "ar"                  
   },
   {
     "id": "book_2",
