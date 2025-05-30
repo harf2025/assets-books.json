@@ -55,6 +55,61 @@
     "language": "ar"
   },
   {
+    "id": "book_5",
+    "title": "الأسود يليق بك",
+    "author": "أحلام مستغانمي",
+    "imageUrl": "https://i.pinimg.com/originals/99/3a/00/993a002b66723b7e7a7e8e5e8e8e8e8e.jpg",
+    "pdfUrl": "https://example.com/black_suits_you.pdf",
+    "description": "رواية رومانسية عاطفية للكاتبة الجزائرية أحلام مستغانمي.",
+    "rating": 4.2,
+    "category": "novels_category",
+    "language": "ar"
+  },
+   {
+    "id": "book_1",
+    "title": "فن اللامبالاة",
+    "author": "مارك مانسون",
+    "imageUrl": "https://www.manhal.com/platform/books/132/cover.jpg",
+    "pdfUrl": "https://ketabpedia.com/wp-content/uploads/2025/02/Ketabpedia.com_فن-اللامبالاة.pdf",
+    "description": "كتاب تطوير ذاتي يدعو إلى التركيز على ما يهمك فعلاً.",
+    "rating": 2.5,
+    "category": "self_dev_category", 
+    "language": "ar"                  
+  },
+   {
+    "id": "book_1",
+    "title": "فن اللامبالاة",
+    "author": "مارك مانسون",
+    "imageUrl": "https://www.manhal.com/platform/books/132/cover.jpg",
+    "pdfUrl": "https://ketabpedia.com/wp-content/uploads/2025/02/Ketabpedia.com_فن-اللامبالاة.pdf",
+    "description": "كتاب تطوير ذاتي يدعو إلى التركيز على ما يهمك فعلاً.",
+    "rating": 2.5,
+    "category": "self_dev_category", 
+    "language": "ar"                  
+  },
+   {
+    "id": "book_1",
+    "title": "فن اللامبالاة",
+    "author": "مارك مانسون",
+    "imageUrl": "https://www.manhal.com/platform/books/132/cover.jpg",
+    "pdfUrl": "https://ketabpedia.com/wp-content/uploads/2025/02/Ketabpedia.com_فن-اللامبالاة.pdf",
+    "description": "كتاب تطوير ذاتي يدعو إلى التركيز على ما يهمك فعلاً.",
+    "rating": 2.5,
+    "category": "self_dev_category", 
+    "language": "ar"                  
+  },
+   {
+    "id": "book_1",
+    "title": "فن اللامبالاة",
+    "author": "مارك مانسون",
+    "imageUrl": "https://www.manhal.com/platform/books/132/cover.jpg",
+    "pdfUrl": "https://ketabpedia.com/wp-content/uploads/2025/02/Ketabpedia.com_فن-اللامبالاة.pdf",
+    "description": "كتاب تطوير ذاتي يدعو إلى التركيز على ما يهمك فعلاً.",
+    "rating": 2.5,
+    "category": "self_dev_category", 
+    "language": "ar"                  
+  },
+  {
     "id": "book_6",
     "title": "تاريخ مختصر للزمن",
     "author": "ستيفن هوكينغ",
