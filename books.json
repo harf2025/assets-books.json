@@ -7,8 +7,8 @@
     "pdfUrl": "https://ketabpedia.com/wp-content/uploads/2025/02/Ketabpedia.com_فن-اللامبالاة.pdf",
     "description": "كتاب تطوير ذاتي يدعو إلى التركيز على ما يهمك فعلاً.",
     "rating": 2.5,
-    "category": "self_dev_category",  // ✅ تم التعديل إلى مفتاح الفئة
-    "language": "ar"                  // ✅ تم إضافة حقل اللغة
+    "category": "self_dev_category",  
+    "language": "ar"                 
   },
   {
     "id": "book_2",
@@ -18,8 +18,8 @@
     "pdfUrl": "https://example.com/power_of_subconscious_mind.pdf",
     "description": "A classic book on how to harness the power of your subconscious mind for success.",
     "rating": 4.8,
-    "category": "self_dev_category", // ✅ تم التعديل إلى مفتاح الفئة (إذا كان هذا الكتاب تطوير ذاتي)
-    "language": "en"                 // ✅ تم إضافة حقل اللغة
+    "category": "self_dev_category", 
+    "language": "en"                 
   },
   {
     "id": "book_3",
@@ -29,8 +29,8 @@
     "pdfUrl": "https://example.com/men_are_from_mars.pdf",
     "description": "دليل لفهم العلاقات بين الجنسين.",
     "rating": 4.0,
-    "category": "development_category", // ✅ تم التعديل إلى مفتاح الفئة
-    "language": "ar"                   // ✅ تم إضافة حقل اللغة
+    "category": "development_category", 
+    "language": "ar"                   
   },
   {
     "id": "book_4",
@@ -40,8 +40,8 @@
     "pdfUrl": "https://example.com/dangerous_relationships.pdf",
     "description": "استكشاف لأنماط العلاقات السامة وكيفية التعامل معها.",
     "rating": 3.9,
-    "category": "self_dev_category", // ✅ تم التعديل إلى مفتاح الفئة
-    "language": "ar"                   // ✅ تم إضافة حقل اللغة
+    "category": "self_dev_category", 
+    "language": "ar"                  
   },
   {
     "id": "book_5",
@@ -51,8 +51,8 @@
     "pdfUrl": "https://example.com/black_suits_you.pdf",
     "description": "رواية رومانسية عاطفية للكاتبة الجزائرية أحلام مستغانمي.",
     "rating": 4.2,
-    "category": "novels_category", // ✅ تم التعديل إلى مفتاح الفئة
-    "language": "ar"                 // ✅ تم إضافة حقل اللغة
+    "category": "novels_category", 
+    "language": "ar"                 
   },
   {
     "id": "book_6",
@@ -62,7 +62,7 @@
     "pdfUrl": "https://example.com/brief_history_of_time.pdf",
     "description": "كتاب شهير يشرح المفاهيم المعقدة في الفيزياء الفلكية بطريقة مبسطة.",
     "rating": 4.5,
-    "category": "history_category", // ✅ تم التعديل إلى مفتاح الفئة
-    "language": "ar"                  // ✅ تم إضافة حقل اللغة
+    "category": "history_category", 
+    "language": "ar"                  
   }
 ]
