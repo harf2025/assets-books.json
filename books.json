@@ -1,5 +1,5 @@
 [
-  {
+ {
     "id": "book_1",
     "title": "فن اللامبالاة",
     "author": "مارك مانسون",
@@ -7,8 +7,8 @@
     "pdfUrl": "https://ketabpedia.com/wp-content/uploads/2025/02/Ketabpedia.com_فن-اللامبالاة.pdf",
     "description": "كتاب تطوير ذاتي يدعو إلى التركيز على ما يهمك فعلاً.",
     "rating": 2.5,
-    "category": "أطفال",  
-    "language": "ar"                 
+    "category": "تطوير",
+    "language": "ar"  
   },
   {
     "id": "book_2",
@@ -18,8 +18,8 @@
     "pdfUrl": "https://example.com/power_of_subconscious_mind.pdf",
     "description": "A classic book on how to harness the power of your subconscious mind for success.",
     "rating": 4.8,
-    "category": "أطفال", 
-    "language": "en"                 
+    "category": "تطوير",
+    "language": "en"  
   }
   
 ]
