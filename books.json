@@ -9,6 +9,8 @@
     "rating": 2.5,
     "category": "mystery_category",
     "language": "ar"
+    "youtubeAudioUrl": "https://www.youtube.com/watch?v=bJeSRcPHiu0" 
+
   },
   {
     "id": "book_2",
@@ -20,6 +22,7 @@
     "rating": 3.8,
     "category": "biography_category",
     "language": "ar"
+     "youtubeAudioUrl": "https://www.youtube.com/watch?v=bJeSRcPHiu0" 
   },
   {
     "id": "book_3",
@@ -31,6 +34,7 @@
     "rating": 4.0,
     "category": "library_category",
     "language": "ar"
+     "youtubeAudioUrl": "https://www.youtube.com/watch?v=bJeSRcPHiu0" 
   },
   {
     "id": "book_4",
@@ -42,6 +46,7 @@
     "rating": 3.9,
     "category": "history_category",
     "language": "ar"
+     "youtubeAudioUrl": "https://www.youtube.com/watch?v=bJeSRcPHiu0" 
   },
   {
     "id": "book_5",
@@ -53,5 +58,6 @@
     "rating": 4.2,
     "category": "science_category",
     "language": "ar"
+     "youtubeAudioUrl": "https://www.youtube.com/watch?v=bJeSRcPHiu0" 
   }
 ]
