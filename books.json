@@ -1,25 +1,21 @@
 [
   {
-    "name": "أحمد العجمي", 
-    "image": "assets/reciters/1.jpg", 
+    "id": 1,
     "code": "ajm",
     "baseUrl": "https://server10.mp3quran.net/ajm/128/"
   },
   {
-    "name": "مشاري راشد العفاسي", 
-    "image": "assets/reciters/2.jpg", 
+    "id": 2,
     "code": "afs",
     "baseUrl": "https://server8.mp3quran.net/afs/"
   },
   {
-    "name": "ماهر المعيقلي", 
-    "image": "assets/reciters/3.jpg", 
+    "id": 3,
     "code": "maher",
     "baseUrl": "https://server12.mp3quran.net/maher/"
   },
   {
-    "name": "عبد الباسط عبد الصمد", 
-    "image": "assets/reciters/4.jpg", 
+    "id": 4,
     "code": "Almusshaf-Al-Mojawwad",
     "baseUrl": "https://server7.mp3quran.net/basit/Almusshaf-Al-Mojawwad/"
   }
